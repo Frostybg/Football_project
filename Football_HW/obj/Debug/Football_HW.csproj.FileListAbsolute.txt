@@ -1,0 +1,3 @@
+C:\Users\Viktor\Desktop\Football_HW\obj\Debug\Football_HW.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\Football_HW\obj\Debug\Football_HW.csproj.SuggestedBindingRedirects.cache
+C:\Users\Viktor\Desktop\Football_HW\obj\Debug\Football_HW.csproj.CoreCompileInputs.cache
